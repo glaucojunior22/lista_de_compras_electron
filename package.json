@@ -12,7 +12,7 @@
   "author": "Glauco Junior",
   "license": "MIT",
   "dependencies": {
-    "electron": "^8.0.0"
+    "electron": "^13.6.6"
   },
   "devDependencies": {
     "electron-packager": "^14.2.1"
